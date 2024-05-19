@@ -6,4 +6,6 @@ For each of the four tests, three files are available:
 - Array with the color frames of the camera and the related acquisition timestamps (.npz);
 - Associative array with calibration parameters (.pkl).
 
+Due to the large file size, the array data can be downloaded from MEGA: https://mega.nz/file/4rgSUYxC#JbhXp0oNitj4PwGTlY8-bO2rxdzrpyJFZiQTQyjRIh8
+
 To find out how to correctly use the data made available, please contact the corresponding author.
