@@ -1,5 +1,5 @@
-# 6DoF freehand 3D Ultrasound: a low cost technique using computer vision tracking
-This is the minimum dataset generated from the experiments carried out during the study entitled "6 DOF Freehand 3D Ultrasound: A Low-Cost Computer Vision-based Approach for Orthopedic Applications", necessary to replicate the results shown in the research article [Link](https://doi.org/10.3390/diagnostics14141501).
+# Six-Degree-of-Freedom Freehand 3D Ultrasound: A Low-Cost Computer Vision-Based Approach for Orthopedic Applications
+This is the minimum dataset generated from the experiments carried out during the study, necessary to replicate the results shown in the research article [Link](https://doi.org/10.3390/diagnostics14141501).
 
 For each of the four tests, three files are available:
 - Marker trajectories obtained from the stereophotogrammetric system (.tsv);
